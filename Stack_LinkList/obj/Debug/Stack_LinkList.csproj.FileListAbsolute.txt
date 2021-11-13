@@ -1,0 +1,7 @@
+C:\Users\mehmet\source\repos\Stack_LinkList\Stack_LinkList\bin\Debug\Stack_LinkList.exe.config
+C:\Users\mehmet\source\repos\Stack_LinkList\Stack_LinkList\bin\Debug\Stack_LinkList.exe
+C:\Users\mehmet\source\repos\Stack_LinkList\Stack_LinkList\bin\Debug\Stack_LinkList.pdb
+C:\Users\mehmet\source\repos\Stack_LinkList\Stack_LinkList\obj\Debug\Stack_LinkList.csprojAssemblyReference.cache
+C:\Users\mehmet\source\repos\Stack_LinkList\Stack_LinkList\obj\Debug\Stack_LinkList.csproj.CoreCompileInputs.cache
+C:\Users\mehmet\source\repos\Stack_LinkList\Stack_LinkList\obj\Debug\Stack_LinkList.exe
+C:\Users\mehmet\source\repos\Stack_LinkList\Stack_LinkList\obj\Debug\Stack_LinkList.pdb
